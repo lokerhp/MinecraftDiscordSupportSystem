@@ -1,0 +1,10 @@
+name: SupportPlugin
+description: Plugin to request Support
+author: lokerhp
+website: https://tech-niek.me
+main: nl.lokerhp.support.Main
+version: 1.0.0
+commands:
+  support:
+    usage: /<command>
+    permission: support.request
