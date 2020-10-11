@@ -1,9 +1,9 @@
 # Support Plugin
-##Commands:
+Commands:
 - /support <message\>  -> Sends the message along with minecraft username and serverip to the webhook
 
 
-![Support](2.PNG)
+![Support](2.PNG)  
 Everything is customizable, and it works only on the ip's you want it to work
 Look at [config.java](src/main/java/nl/lokerhp/utility/util/Config.java) for the settings
 
