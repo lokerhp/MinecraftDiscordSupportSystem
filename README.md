@@ -1,4 +1,9 @@
-# Support Plugin
+# No! No! No!
+Do. Not. Use. This,
+i'm working on a better version, but this version is as insecure as possible, sharing tokens hardcoded etc.
+bad niek, bad
+
+## Support Plugin
 Commands:
 - /support <message\>  -> Sends the message along with minecraft username and serverip to the webhook
 
